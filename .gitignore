@@ -1,0 +1,8 @@
+*.pyc
+*.egg-info/
+__pycache__
+venv/
+*.log
+*.exe
+.python-version
+.idea/
